@@ -166,21 +166,36 @@
     async function loadDirectory() {
       statusEl.textContent = 'Reading directory…';
       try {
-        const res = await fetch('res/');
-        if (!res.ok) {
-          throw new Error('Failed to read directory, status ' + res.status);
+        // Prefer a static JSON listing (works on GitHub Pages)
+        let links = [];
+        try {
+          const jres = await fetch('res/list.json');
+          if (jres.ok) {
+            const arr = await jres.json();
+            if (Array.isArray(arr) && arr.length) links = arr.map(String);
+          }
+        } catch (e) {
+          // ignore and fall back to directory listing
         }
-        const html = await res.text();
-        const doc = new DOMParser().parseFromString(html, 'text/html');
-        const links = Array.from(doc.querySelectorAll('a'))
-          .map(a => a.getAttribute('href'))
-          .filter(href => href && !href.startsWith('?') && !href.startsWith('/'))
-          .filter(href => !href.endsWith('/'));
 
-        resources = links.map(href => ({
-          name: decodeURIComponent(href),
-          path: 'res/' + href
-        }));
+        // Fallback: try directory HTML listing (local dev servers)
+        if (!links.length) {
+          const res = await fetch('res/');
+          if (!res.ok) throw new Error('Failed to read directory, status ' + res.status);
+          const html = await res.text();
+          const doc = new DOMParser().parseFromString(html, 'text/html');
+          links = Array.from(doc.querySelectorAll('a'))
+            .map(a => a.getAttribute('href'))
+            .filter(href => href && !href.startsWith('?') && !href.startsWith('/'))
+            .filter(href => !href.endsWith('/'));
+        }
+
+        if (!links.length) throw new Error('no listing found');
+
+        resources = links.map(href => {
+          const clean = href.replace(/^\.\/?/, '');
+          return { name: decodeURIComponent(clean), path: 'res/' + clean };
+        });
 
         // Sort by date (descending) using filename epoch when available
         resources.sort((a, b) => getSortTime(b.name) - getSortTime(a.name));
@@ -193,7 +208,7 @@
         }
       } catch (err) {
         statusEl.textContent = 'Failed to load directory: ' + err.message;
-        contentEl.textContent = 'Unable to read res directory. Please ensure you are accessing this page through a local server.';
+        contentEl.textContent = 'Unable to read res directory. Add a `res/list.json` or allow directory listings.';
       }
     }
 
