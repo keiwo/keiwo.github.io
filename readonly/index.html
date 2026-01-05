@@ -305,7 +305,7 @@
     }
 
     async function loadText(path) {
-      statusEl.textContent = 'Loading…';
+      statusEl.textContent = '';
       try {
         const res = await fetch(path);
         if (!res.ok) {
