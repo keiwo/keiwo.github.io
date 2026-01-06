@@ -169,7 +169,7 @@
         // Prefer a static JSON listing (works on GitHub Pages)
         let links = [];
         try {
-          const jres = await fetch('res/list.json');
+          const jres = await fetch('list.json');
           if (jres.ok) {
             const arr = await jres.json();
             if (Array.isArray(arr) && arr.length) links = arr.map(String);
