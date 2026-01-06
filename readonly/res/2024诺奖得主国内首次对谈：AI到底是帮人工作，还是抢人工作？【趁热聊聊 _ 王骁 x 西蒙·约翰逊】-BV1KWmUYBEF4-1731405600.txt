@@ -1,0 +1,581 @@
+As for what we should expect from Mr. Trump, I mean, really, nobody knows, including I'm sure Mr. Trump, economists are quite bad at big predictions because we like to think about small marginal adjustments and we like to sound responsible and look, I'm wearing a jacket and tie, this is not a good way to predict the future. As humans have, you know, every time we've invented amazing things, we've found ways to use them for destructive purposes.
+Welcome back to our channel. We're very honored to have Professor Simon Johnson, the 2024 Nobel Prize winner in economics. So welcome, Professor Johnson.
+It's very nice to be with you.
+Among our viewers, we have many econ students and people working in financial business. So could you please say hello or say something to our Chinese audience?
+I would say that understanding economics and thinking about the future of finance has never been more important, given all the developments around the world that we're seeing currently, including, of course, with the latest in technology.
+Thank you very much. I know you have done so many, so many research on AI and economy, but there's an elephant in the room that we cannot pretend to ignore.
+So Mr. Trump just announced his victory in the election. Clearly, the past four years under the Democratic administration didn't very satisfy the American people.
+So from an economic standpoint, could you talk about the issues in the U.S. economy that led to this result?
+And what kind of economic policies do you expect from a Trump administration?
+Well, I think, first of all, on the election results and why people voted as they did, obviously, it's not only about economics, but on the economic issues, I think we have a longstanding problem of the pressure on the middle class.
+So in the U.S., we've had high income growth, rapid income growth for highly educated people.
+The middle has been very squeezed for decades, mostly by automation, by the way, but some people also blame trade.
+And the middle people have been pushed down to the lower end of the labor market, where real wages for men have not increased very much over the past 40 years, which is really quite striking and a big problem.
+In addition, of course, we had very difficult experience with COVID and a lot of inflation that occurred as we came out of COVID.
+So people have lost middle class jobs.
+They're worried about their future and the kids' future.
+And then prices are much higher.
+So I think that's been a disappointing economic performance.
+And that's what you're seeing in the polls.
+As for what we should expect from Mr. Trump, I mean, really, nobody knows, including, I'm sure, Mr. Trump.
+He has made some very big, rather wild promises, including about tariffs.
+But if you look at the details of what he's promising there, it doesn't really make any sense, even for his own supporters.
+So as I said, high prices are a problem.
+But a lot of low-income Americans who voted for Mr. Trump consume goods that have a large import content.
+I mean, that's just the kinds of things that they buy at Walmart and other stores.
+So if Mr. Trump puts the tariffs on anything like what he's saying, that would be a big hit to the incomes and the pushing power of those lower-income Americans who voted for Mr. Trump.
+So that doesn't really make any sense.
+And I don't think we're going to get what he promised.
+But what will we get?
+On the trade side, very hard to say.
+But from his first term, we saw he did a lot of things about the tariff.
+And actually, from 2016 and later on, we see an even more broken global supply chain.
+So do you think we are seeing the beginning of the end of globalization?
+It's not the beginning of the end, because I think countries are too much interlocked.
+But it is a new phase.
+But agree with what you just said, which is the new phase began in 2016.
+So when Mr. Trump ran and won in that election, that was a major political shift on trade policy, because since World War II, so for 70 or 80 years, the Republican Party had always been more pro-free trade, favoring lower tariffs.
+And the Democratic Party had always been more resistant to freer trade.
+So Mr. Trump took the Republican Party.
+He moved it, if you like, to the left of the Democratic Party in 2016, actually in that election year.
+And it stayed there largely.
+And now that he's won again, he's absolutely stuck in that position.
+So yes, he will do things on trade.
+There will be actions on tariffs or other trade restrictions.
+He may go after Chinese companies.
+There is discussion that instead of just a rule of origin focus, which, as you know, is about saying which country was this made in, there may be a focus on whose companies are making it.
+So if a Chinese company makes something in Mexico, will that be treated differently than if an American company or a Mexican company makes something in Mexico?
+And this gets very complicated and extremely messy and not my advice at all on how to proceed.
+But I agree that there will be actions.
+I just don't think there'll be the very high tariffs that he's promising, because that will really hurt his own people.
+So do you think we, the Chinese, we should be worried?
+I think we should all be worried, Albert.
+Mr. Trump is an extremely unpredictable man.
+And I would also add that he has some very rich people around him this time.
+Some people might even call them oligarchs or want to be oligarchs.
+Elon Musk is, of course, the most famous.
+And we also don't know what they want to do.
+He, in his first administration, Mr. Trump was not particularly well organized.
+And the cadre of people he built around him didn't quite know what they were doing.
+But they've learned a lot.
+And they're bringing in people with much stronger organizational capabilities.
+And they want to destroy the state or the federal bureaucracy.
+They want to go after a lot of restrictions on companies, including financial companies.
+They want to legalize cryptocurrency trading in all forms.
+I mean, these are really big, meaningful things that they may actually be able to do,
+because I think this time around they're going to be more focused and better organized, the people who work for Trump.
+OK, yes, of course.
+Just like you mentioned, Elon Musk is on his side this time.
+And Elon Musk has a lot of things to do with China.
+Well, I know you have done a lot of research on AI.
+And Mr. Musk has been a quite big opponent to OpenAI, this product.
+However, just the day before the election day, his ex-AI just announced the test on the, like, Grok API.
+So it seems like that no matter if it is going to be a Republican administration or a Democratic republic,
+we're going to see AI is going to be an unstoppable thing.
+And as you mentioned in your book, you don't think that AI will necessarily make our society more productive
+or necessarily will make people, like, less stressed.
+So are you optimistic about what's going to come next?
+Well, first, that's a great question and a very deep question.
+First of all, on Elon Musk, let's be clear, he was a big proponent of AI early.
+He and Sam Altman actually helped.
+They worked together to create OpenAI.
+Then they had a splitting of the ways.
+Then the story gets a bit more complicated.
+But the bottom line is that Mr. Musk is pushing very hard for his own version of AI
+and his own control over the technology because he understands it's going to be a way to control
+the development of many other things and obviously make a lot of money.
+I will particularly emphasize that Mr. Musk is pushing super hard on self-driving cars.
+This has been a selling point of Tesla.
+I think he's exaggerated what the cars can do.
+But there's a huge amount of capital now going into this space.
+There's a lot of very brilliant colleagues, including many of my computer science colleagues
+at MIT, working very hard on this.
+So Musk is a factor, absolutely, but there's a much bigger drive to AI.
+And on the optimism versus pessimism, what I would say is it depends on what choices we make.
+AI could reinforce that widening of income differentials I talked about.
+So it could be a technology that helps some very highly educated people, the billionaires and
+some people with PhDs.
+They would do very well.
+The middle, which would include people who have coordination jobs in companies or people
+who are drivers of delivery vehicles, for example, could lose those jobs.
+And then what else?
+What do they get to do?
+Do we create new tasks requiring expertise for those people or do they get pushed down
+to the bottom of the labor market?
+So if we push them down to the bottom of the labor market, that's going to worsen the
+polarization we have in the job market and worsen polarization in society.
+The alternative is to develop what we call pro-worker AI.
+So this would be AI that enhances the productivity of people without a lot of education, people
+who didn't go to college.
+And if you did that, then you can imagine that the productivity and incomes or ability
+to earn a higher income of people with less education would go up and that might close
+the gap between top and bottom.
+So I do think the path we're on is going to worsen polarization, but I do think it will
+push towards more unequal outcomes, actually.
+So how to define a work pro-AI and how to define a work not very pro-AI?
+Yes, a very good question.
+So take, for example, supermarket.
+If you bring in this, what's called self-checkout kiosks, and I'm sure you have a lot of those
+in China too.
+So we're replacing workers with machines.
+This is straight automation.
+Now, if you also use software, machinery, algorithms, to increase the tasks or expand
+what the grocery store can offer or change the services to make them more appealing to
+the consumers or add value that the consumer is willing to pay for, then we have some new
+task creation in that grocery store.
+Now, I think we're all aware of the fact that the self-checkout kiosks don't generally create
+new tasks.
+Mostly, we're reducing the employment in the grocery store.
+So then the question is, where else in the economy is someone, could be an existing
+firm, could be an entrepreneur, but where is someone creating some new jobs or new tasks
+for people that demand expertise?
+And that's the erosion of the middle class.
+What we can do is try to accelerate new task creation.
+And we did this, by the way, in the mid-20th century.
+This is the heart of the success in the United States and other industrial countries in that
+period.
+I particularly like the example of the supermarket because I spent my last year in London
+and I'm not trying to be a racist, okay?
+I'm just saying what I saw.
+For most of the supermarket I walk into, I see only maybe two or three Indian people
+running.
+They can run a very big supermarket.
+So I do see what's going on, as you mentioned.
+But also from what I can see is people originally thought that AI would more easily replace job
+involving lower-skilled labor.
+However, the reality is that AI is also beginning to, like, replace some roles, such as, like,
+writers, programmers, chess players, hosts.
+So as AI development accelerates, will these highly educated individuals also become, like,
+victims?
+Yeah, it's a good question.
+And honestly, it's very early days, so we don't know exactly.
+And I would say that, yes, higher-end people, more educated people, will face some pressure.
+But they're also the people who are in a better position to go and do new things in which they'll
+be highly productive using the technology.
+So there will be transitions, in the jargon of economics, from one job or type of job to
+other types of jobs.
+And in the new types of jobs, they will probably have quite high incomes.
+We did some work, Albert, with Hollywood screenwriters who were on strike last year,
+as you remember.
+And one of their big concerns was automation in making movies, is that an executive in the
+movie business, or at Amazon, actually, or some other digital company, will have an idea
+for a movie or a TV series.
+And they'll put that into ChatGPT, or their favorite generative AI.
+And out will come a script, which they can then hire a 21-year-old or 24-year-old just
+out of film school to make it look like a human wrote the script.
+Now, if or when we get to that, that will hollow out all of the jobs in the middle that were
+previously screenwriters, some of whom are quite well-paid.
+And they certainly have a lot of experience and a lot of human talent.
+So that is, I think, a legitimate concern that some categories of creative work that
+have been well-paid could already be eliminated, actually, by the software.
+I don't think that the movies and TV shows you'll get will be particularly good or compelling.
+But, you know, people will still watch them, I expect, and the market will decide on the
+precise demand for those.
+So, yes, there will be pressure on such positions.
+I think, though, that the bigger problem is for people lower down the income scale with less
+education, people who perform coordination roles within companies, because now one person
+can coordinate a lot more, as you pointed out in the grocery store.
+And one CEO, chief executive officer of an American company, said to me, and I don't like
+this term that he used.
+Let me be clear.
+It's his term, not my term.
+But it is, I think, a rather, it's rather illustrative of how CEOs are thinking about this.
+He said that the people who have, quote, cut and paste jobs will be fired or move on.
+So, cut and paste means you do something that's quite routine.
+Every day, you're moving some text from here to there.
+You're doing a regulatory filing in a different jurisdiction.
+You are responding to questions or queries in a very standard way with just some small
+variation.
+And, of course, call centers are already using a lot of generative AI for transcription of
+the call and for advising the workers on the replies that they should give.
+So, it's a bit of an expert advice system.
+But it's a small step from being an expert advice system to being able to handle all the
+routine inquiries and then being able to recognize, OK, this is not routine.
+This is important.
+Let me bump that up to somebody higher.
+Somebody higher right now will be a human.
+But over time, the AI capabilities will also presumably expand to take on those roles as
+well.
+But it worries me that because isn't the cut, paste job, the entry-level job for everyone?
+How do you expect people can, like, come so creative, like, from day one?
+Yes, absolutely.
+Look, when I was a graduate student, I worked for some brilliant professors doing cut and
+paste and editing their text and so on.
+And one of them was Franco Modigliani, who won the Nobel Prize in 1985.
+So, I've been thinking a lot about him.
+I edited two volumes of his collected works.
+And I think I did a pretty good job.
+But could AI have done it better than me with today's AI?
+Perhaps.
+So, I would have not had that opportunity to work with a Nobel Prize winner and to absorb
+the knowledge and the ideas and have the conversations and so on.
+So, yes, I think career ladders are going to become, in some spaces, including around
+writing, editing, and some research roles.
+I think those first rungs on the ladder may become more precarious or harder to access.
+And that's a problem because that's how you build skills, right?
+That's how you build experience.
+That's how you become an expert is by climbing up some sort of experience ladder.
+That should be also a learning process, not just repeating, right?
+In the book, you mentioned about the idea of machine usefulness.
+Well, and also we talked about more and more people might lose their job.
+From the birth rate globally, we can see so many countries are not making babies anymore.
+South Korea is at 0.72.
+Japan is 1.2.
+China is 1.3.
+India, even India is 2.
+So, is it possible in the near future, we will found a balance between the population and the AI?
+Well, perhaps if we look at 100 years, but I think globally, the picture is quite mixed.
+And in Japan, they are thinking exactly about this because the population is aging.
+They have relatively few young people.
+So, can they use automation of various forms to keep the young people productive,
+make them more productive and support the older population?
+It's a good question.
+But of course, around the world, there's a lot of young people who are either just entering the labor market
+or about to enter the labor market.
+I was on a panel discussion yesterday, sorry, the day before at the International Monetary Fund.
+And on the panel was the head of the World Bank's digital transformation function.
+And her view and the numbers that these officials have is that we should be expecting 1.2 billion people
+to join the labor market quite soon in poor countries, including, but not only, in Africa.
+So, I think of a population of 8 billion, maybe 2 billion live in countries with some demographic pressure,
+potential demographic decline.
+And then 2 to 4 billion live in countries where the demographics are not transitioning that quickly.
+But we have a lot of people in the world who are really quite desperate for productive work already.
+And they're facing a lot of pressures on the natural environment from other forces in their societies.
+And now we hit them with AI.
+And remember, this AI is developed by American companies for the United States.
+I understand China is also pressing harder on this, but we have less information about the exact capabilities of the Chinese software.
+So, just take the American companies.
+They are developing software that they feel is appropriate for their target market.
+Their target market is the United States or high-income consumers or maybe even people in San Francisco.
+Sometimes that's how they start their businesses, with that focus.
+This software, as you pointed out, has spread around the world.
+I think ChatGPT spread within 20 minutes.
+It was being used almost everywhere.
+So, we have software and automation developed for high-wage countries being used everywhere in the world to replace labor, even in low-wage countries.
+Now, that is not a great combination in terms of job growth and potential for countries to work their way out of poverty.
+I remember a movie I saw called Blade Runner.
+Well, AI is not just replacing people's job, it's also replacing so many roles in our life.
+For example, there is a guy, the leading role, he had a girlfriend, which is a visual reality.
+And the leading role himself is also being an AI-generated.
+Well, I have to say, I do read a lot of science fiction.
+I think the original Blade Runner movie with Harrison Ford is very good.
+The Philip K. Dick novel, which is called Do Androids Dream of Electric Sheep?
+I highly recommend that, too.
+I find science fiction to be very helpful and very provocative because good science fiction writers imagine complete worlds which are self-contained and fairly consistent.
+Economists are not very good at this.
+Economists are quite bad at big predictions because we like to think about small marginal adjustments and we like to sound responsible.
+Look, I'm wearing a jacket and tie.
+This is not a good way to predict the future.
+You know, I like the novels of Neil Stephenson.
+I really recommend it.
+And I do say to many audiences, the question is which Neil Stephenson novel we will live in.
+So there are some Neil Stephenson novels that are quite dystopian with technology playing, let's say, an oppressive role and people choosing to adopt a technology that oppresses themselves, which is very weird.
+But, you know, we do see some bits of that already.
+But he has some other novels, including one called The Diamond Age, in which technology is liberating and technology allows people in otherwise disadvantaged situations to access education and knowledge that they couldn't otherwise get.
+So if you think about what we call our kindergarten through grade 12 system in the United States, K-12 education system, and then, of course, our system of universities, which is quite expansive but also very hierarchical.
+If you do well on the educational ladder, I grew up in the United Kingdom, which has an educational ladder that's probably even more steep than the American one.
+If you do well on the ladder and you hit every rung every way up, then you can get some good outcomes.
+But if you fall off the ladder, if you have some problem at home, or if COVID hits, a lot of children in the United States lost two years of schooling because of COVID and the way we handled it, then you're in trouble.
+Then you don't have opportunity to move to the next rung and so on.
+But why do we have this hierarchical system?
+Why do we say, look, you have to go to this kind of school, complete this exam to move up to this level?
+Why don't we have a more fluid system in which people can learn at their own pace?
+They can learn at different ages.
+They can demonstrate their skills in other ways.
+And so I do think, Albert, that technology could play a more liberating role.
+And it's really about how we choose to develop it and what we do with technology.
+So I think there's a lot of human agency, Albert, in what happens next.
+But, of course, you're right that we, as humans, have, you know, every time we've invented amazing things, we've found ways to use them for destructive purposes.
+And, you know, the most horrible historical example that I always go back to is World War I.
+Before 1914, there was enormous optimism about technology and what could be done with technology.
+And there was some fear about some things going wrong.
+And 1914 to 1918, the West European countries killed millions of people, mostly their own people, but also other people around the world, in pursuit of what exactly?
+No one could really tell you what was at stake in World War I or why that was meaningful.
+And, of course, it led to further big economic problems and further global conflicts.
+So technology is a two-edged sword always.
+And we must learn that lesson.
+And that's why we wrote the book, Power in Progress, to try and talk about those lessons and to try and encourage people, inventors, engineers, scientists of all kinds, but also policy people, also people who talk about technology like yourself and your listeners.
+Let's think about what we want to achieve for ourselves and our communities.
+I fully appreciate the answer.
+And the reason why I am very interested in that part is because there is an article I read recently, which you wrote.
+You suggested to impose a bigger tax on content platforms, free content platforms and support those news outlets or content outlets, which based on subscription.
+So the reason I am interested in this topic is that AI has already become deeply involved in how we select content and on social media.
+One of the major secrets behind viral spread is AI's algorithm-based recommendation tailored to user preference.
+So recently, the article you mentioned, you point out that in a subscription model, revenue depends on content quality, user experience, and the ability to maintain high standards.
+However, social media driven by free content and algorithm recommendations has turned into a breeding ground for misinformation, leading to serious consequences such as information manipulation, opinion polarization, and internet addiction.
+However, we should also note that subscription content is not cheap.
+For example, it requires, it takes like $100 to subscribe to the New York Times.
+At the same time, they are not entirely objective.
+So I still rely on social media to understand the real experience of people.
+For example, those people affected by the Florida hurricane or to hear the voice of students occupying campuses in protest against the war.
+So these are examples of content that paid media doesn't provide.
+So how should we balance these issues?
+Yeah, it's a very good and fair question.
+Look, we've not said that social media should be banned or shut down or anything like that.
+You know, the concern that we have, and we're not the only ones, is that the digital advertising, including now that it's AI-powered, which I think you put it very well,
+which is it's reinforcing what was already in the system, that the way it works is by engaging your emotions, by making you upset, genuine democratic discussion.
+We're having a good democratic discussion right here.
+You're putting forward some points.
+I'm responding, you know, we're not agreeing on everything, and we shouldn't agree on everything.
+That would be very boring and not a good way forward.
+And if you come visit us at MIT, but you'll be welcome to come to my classroom, I have 60 or 80 students from around the world with very different perspectives,
+all trying to reach some understanding with important shared elements, but also they'll retain their identities and they'll say,
+well, that's a good point, Simon, but in my country it's a little bit different and we have to do it this way.
+That's what we want to have, and that's what we're not getting through social media with the digital advertising-driven model.
+So, yes, we do want to tilt it back towards, well, actually we want them to find other models.
+So, subscription model is the obvious one. Other innovations are absolutely possible.
+The tax that we're proposing would fall mostly on Meta, so Facebook, Alphabet, Google, and Amazon.
+Those are the three big global digital advertisers.
+TikTok is obviously, ByteDance is rising fast, but it's still in fourth place there.
+And we would exempt small players. I don't think you want to shut down everything.
+But I think that those big companies are not doing great service to all of us with this focus and the AI.
+I think we'll see abuses, Alphabet, and I think we'll see excesses with the AI-driven algorithms,
+and this will be very upsetting to everyone, and so eventually we will deal with this.
+And we should be discouraging the excessive digital advertising, like we discourage smoking,
+like we discourage junk food. It's not good for us. It's not good for the society.
+But we don't ban it. We don't shut it down. You're still allowed to smoke cigarettes if you really want to.
+But we're pushing people in a different direction in terms of business models, for example.
+You know, I do agree, and I want to reinforce your point about access to multiple perspectives.
+I think that's important, and I think it's very good to have that, including from the natural disasters.
+There are also stories that I have not verified, but from plausible sources,
+that people are fabricating footage, for example, of the floods in Spain
+in order to draw people to their coverage, which is completely made up,
+but they're compensated for the number of eyeballs and how long people spend looking at this.
+We could call it misinformation, which, of course, in English means mistaken, incorrect.
+But we could also call it disinformation. It's already big. It's already a big problem.
+Making people angry and having them shout at each other on the Internet is not helpful
+to any version of democracy anywhere in the world, I would say.
+Quite possible. I highly agree with you, actually.
+But as you mentioned in your writing, subscription-based models provide information products to readers.
+However, free social media, they generate profits.
+Actually, they're advertising companies.
+So, like Google, Facebook, they're not making money from the users.
+They're making money from advertising.
+So, they're actually advertising companies, which really relies, heavily relies on data.
+So, this means that social media users are not the actual customers,
+but rather the producers and, in a sense, actual customers.
+So, essentially, users are, like, producing content for social media platforms for free.
+What's more is children can also become part of this production process.
+Could this be a perspective worth considering?
+Well, I mean, it's definitely worth considering.
+I mean, I think it's a very important influence.
+You know, as for the issue of capitalism and who controls the capital and who has power in this system,
+you know, I think it's very interesting.
+On the one hand, of course, there are many voices.
+So, this is your multiple creators of content.
+And that's very good.
+And I think, you know, allowing more people to express themselves is completely legitimate
+and very interesting and helpful to all societies.
+At the same time, there's obviously the gatekeepers, the platforms, the choke points,
+whatever you want to call them.
+And they are controlling these key nodes in the system.
+So, you know, perhaps we should think about it like the railways in the past
+or the telephone systems in the past.
+Because sometimes when we look back in history, it's easy to have the perspective.
+So, people were quite amazed by how much people wanted to use railways for passenger transportation,
+for going to the seaside in England in the 1850s, for example.
+People were quite amazed by how much consumers wanted to talk on the telephone.
+Nobody imagined that people wanted to talk as much as they did when the telephone became available.
+But, of course, the real money and the power was in the hands of the people who controlled the networks
+and who controlled the key nodes, like a big train station in and out of London, for example,
+or telephone switching equipment or telephone exchanges.
+Though the telephone companies were, of course, some of the most powerful companies in the U.S.
+So, I think that capitalism is quite good at some things, like innovation.
+It also leads very quickly to abusive market power, big monopolies of various kinds.
+We traditionally have broken those up when they have a market power that we recognize,
+such as pricing power.
+So, Standard Oil, which was the big oil monopoly of the early 20th century,
+was clearly created by John G. Rockefeller and his associates to have a tight grip on the supply of oil,
+drive out competitors, and then push up the price of oil and petroleum products.
+So, they got broken up into 25 or 26 pieces, which, by the way, all did well,
+and the shareholders made money, and the consumers got a better deal.
+So, people like that.
+The difference, of course, today, so we know that Meta and Google and a few other companies
+have tremendous power, and they do control the nodes, but they don't price like Standard Oil,
+and they're not raising price to the final consumer.
+So, it doesn't trigger our usual antitrust actions.
+And, you know, the U.S. has been debating what to do about these companies,
+and we'll see what Mr. Trump does, because on the one hand, he's very pro-business, obviously.
+On the other hand, he hates the tech companies.
+Yes.
+On the other hand, he has Mr. Musk on his side, and Mr. Musk has complicated views on tech companies.
+So, I think that we will continue down our current path,
+and these companies will remain extraordinarily powerful,
+and we'll have to live with the consequences.
+At some point, we may not like the consequences, and we may find ways to deal with that.
+And that's our proposal about digital advertising, for example,
+which is not against those companies.
+It's saying the business model has gone too far.
+Change the business model, and we'll leave you alone.
+Perhaps.
+But I think what you're putting your finger on, the sort of shifting balance of power,
+and what capitalism means, and which capital...
+You can control a lot of capital, like your content creation,
+but not be that powerful, because you're in a very competitive market.
+If you control the critical capital, the network capital, the platform capital,
+that's different from controlling the capital of being able to create content
+and manage that part of the creative supply chain.
+Yes, yes.
+Well, as you mentioned, so either Democrats or Republicans, big money, big corporation,
+big business people, they're highly influential in American politics.
+So, can we say that because you wrote so many about American innovation and startups,
+nowadays we can see that it is extremely costly for training AI models,
+making it no longer feasible for entrepreneurs to launch a startup from a garage.
+So, do you think the AI era will lead to the strong getting stronger,
+thereby undermining the previous entrepreneurial environment and culture?
+Well, you mentioned my book, I have it on my shelf here.
+It's called Jumpstart in America,
+How Breakthrough Science Can Revive Economic Growth in the American Dream.
+You know, I think what you're asking is a really fundamentally important question.
+And clearly, when it comes to foundation models,
+there are a few players who are raising a lot of capital,
+and the valuations of these young companies are extraordinary.
+I think we can agree.
+Tens of billions of dollars for a company that's only been around one or two years,
+in case of perplexity, for example.
+And we know also that a lot of the capital going into those businesses
+is coming from around the world.
+So, one friend of mine who works with companies and governments,
+advising them on AI strategy, his view is that,
+and we don't know that much about China,
+so let me leave China out of this equation, okay?
+So, excluding China, all the capital going into foundational models,
+or going into AI at this moment, 95% is going to the US, 95%.
+3% to Europe, 2% to the rest of the world, excluding China.
+We're always struggling to understand new industries using the terminology of the previous industry.
+But in the internet, we talk about the stack, right?
+We talk about there being some foundational protocols,
+and then some other software built on top of that,
+and then you get to applications, and so on and so forth.
+So, Amazon is a very powerful and successful company
+that didn't write the basic code of the internet,
+and really was not a big player until about 20 years ago,
+when it started to emerge, quite late in the internet development.
+So, presumably what happens is we have foundational models and foundational capabilities.
+On top of that is built more applied uses of those models,
+and maybe there's a stack of applications that grows on top of that.
+So, I've been talking, I talk to entrepreneurs and civil society people around the world,
+and some people, some very nice people were visiting me from Indonesia,
+actually, soon after ChatGPT came out.
+and they said, we think generative AI can be wonderful for Indonesian agriculture.
+And I said, I don't think you're going to get anything for Indonesian agriculture from Silicon Valley,
+because they, I mean, if they've been to Indonesia, they go to Bali and go diving.
+They have no interest in your agriculture.
+But, if you get together with other, particularly if you get together with other countries,
+and you can go to the industry and say, look, we represent a billion farmers,
+and this is what we need.
+And if you build it, we will buy it.
+So, you create a market or a pre-market purchase program, sometimes people call it that.
+That's really interesting.
+And that, Albert, would be software that could come either out of the big tech guys,
+but they won't do everything, they can't do everything.
+More applied software developers, who could be in Indonesia, by the way,
+in fact, it might be very smart to partner with people in Indonesia
+who are very close to the problem, who really understand the farmers and the agriculture,
+and then bring tech in and skills in from wherever else in the world.
+So, I think there will be opportunity.
+I hope there will be a lot of opportunity for the United States,
+because that's where I live, and I think we need more good jobs.
+But I hope there will be opportunity for the world.
+I run a course at MIT called Global Entrepreneurship Lab,
+where we work with entrepreneurs around the world.
+And we've been doing this for about 25 years.
+And 2,500 students have taken this course over that period.
+The students, the MBA students,
+many of our students have an engineering technical background,
+but they're management students, and they want to go on and run companies and start companies.
+They love working with companies around the world.
+They want to go work in all kinds of places, including right now,
+a lot of them want to go work in Africa.
+And they want to help build companies out, but they want to create value.
+They want to serve consumers.
+They want to develop high-quality products.
+And we work with fantastic people in those markets.
+And everyone is asking, of course, the question,
+can I get a bit more of an edge using AI as a tool?
+How will it help me?
+And so on and so forth.
+So, that's one of the questions we deal with.
+But it's not primarily AI.
+I think it's all about building applications and solutions on top of more global platforms
+that will be useful in your local market and serve the local needs
+that are not the same as the needs in San Francisco.
+Let's be very clear.
+So, I think for adaptation, application, there's going to be a huge need.
+And I think there will be a lot of great entrepreneurship.
+However, if we let a few companies control those key nodes,
+the network pieces I was talking about, they may get all the profit.
+So, there could be a lot of entrepreneurship and a lot of flourishing.
+But I would also like the profit to be more evenly distributed around the world
+because that would be fair.
+That would encourage more investment.
+And I think that would tilt us away from a world in which we only build things
+that are suited to high-income consumers.
+That's not a good world.
+You want all consumers to have voice and to be taken seriously
+by the people who develop technology.
+Yeah.
+Just as you mentioned, you prefer work pro AI, right?
+Pro-worker AI.
+Pro-worker AI.
+So, worker by worker, to be clear, we mean specifically people who didn't go to college
+or didn't finish four-year college in the United States.
+I mean, there's 8 billion people in the world, Albert.
+The United States is just 330 million.
+We are very innovative, very creative on our good days.
+But we should be working harder to help other people sort out and identify their solution.
+Not dictating, not telling people we have the answers.
+That would be arrogant and stupid.
+But actually, but making partnerships, Albert, and finding ways to develop things together
+that improve the human condition everywhere in the world.
+If I could put a bumper sticker or a sticker on the back of my car that summarizes everything, Albert,
+we have worked on, that we won the Nobel Prize for,
+and that we continue to work on, including the future of technology,
+my bumper sticker would just read, more good jobs.
+That's it.
+More good jobs.
+In the United States, in China, in Africa, that's what people want to work, Albert.
+But they want to work in meaningful jobs, jobs with dignity,
+jobs where they can earn a good living, take care of their family,
+have a decent place to live, and their children can do better.
+So from a historical or economic perspective,
+how can ordinary people like normal people seize opportunity
+and benefit from this wave of AI development?
+Are there any, like, practical suggestions for everyone?
+Yes, I think that looking for problems that you want to solve using technology.
+So I don't think technology for the sake of technology is compelling or the right thing to pursue.
+Inventing something that's better just because it's better.
+What is the problem that you want to fix?
+What is hurting your community?
+What is holding back people that you care about?
+How can you imagine technology could be developed and deployed to address that?
+That is the right approach that I would propose that I think has appeal.
+It is possible using both what's available now and what AI will become.
+So, you know, sometimes people say that the world,
+and economists like to say, the world is full of unintended consequences.
+But there's another saying from basketball, for example, and other sports,
+which is you make 0% of the shots you don't take.
+So what are your intended consequences?
+What are you trying to achieve and improve?
+Have a clear statement of that, a clear delineation of that.
+Work on that with your friends and very competent and capable people,
+the smartest people you can find, and pursue those goals.
+You may not, of course, achieve them.
+The world may turn against you.
+Unintended consequences may take over.
+But if you don't try to improve the things you want to improve, it's not going to happen.
+All right.
+Thank you very much.
+I think that's all the questions we have today.
+Well, thank you very much.
+Really enjoyed the conversation.
+Thank you for giving us the opportunity to do this interview
+and hope that we can have more conversation offline in the future.
+I look forward to it.
+I think there will be no shortage of topics that both of us are pursuing.
+Welcome to China if you have the opportunity in the future.
+I look forward to that.
+I hope that will happen soon.
+Okay.
+Thank you.
+Thank you.
