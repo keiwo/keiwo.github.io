@@ -178,6 +178,19 @@
           // ignore and fall back to directory listing
         }
 
+        // Try a static listing inside the res/ directory as a fallback (GitHub Pages may publish this)
+        if (!links.length) {
+          try {
+            const jr = await fetch('res/list.json');
+            if (jr.ok) {
+              const arr = await jr.json();
+              if (Array.isArray(arr) && arr.length) links = arr.map(String);
+            }
+          } catch (e) {
+            // ignore
+          }
+        }
+
         // Fallback: try directory HTML listing (local dev servers)
         if (!links.length) {
           const res = await fetch('res/');
@@ -194,7 +207,20 @@
 
         resources = links.map(href => {
           const clean = href.replace(/^\.\/?/, '');
-          return { name: decodeURIComponent(clean), path: 'res/' + clean };
+          // decodeURIComponent can throw on malformed percent-escapes (e.g. bare '%').
+          // Try to decode, if it fails fall back to a safe replacement or the raw value.
+          let name;
+          try {
+            name = decodeURIComponent(clean);
+          } catch (e) {
+            try {
+              // Escape bare '%' and try again
+              name = decodeURIComponent(clean.replace(/%/g, '%25'));
+            } catch (e2) {
+              name = clean; // last resort: use raw string
+            }
+          }
+          return { name, path: 'res/' + clean };
         });
 
         // Sort by date (descending) using filename epoch when available
