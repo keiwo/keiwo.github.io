@@ -330,10 +330,32 @@
       await loadText(file.path);
     }
 
+    function sanitizePathForFetch(p) {
+      // Preserve existing valid %xx sequences, escape bare '%' characters
+      // and percent-encode other unsafe characters (spaces, etc.).
+      // Algorithm:
+      // 1) Replace any '%' not followed by two hex digits with '%25'.
+      // 2) Temporarily replace all valid %xx sequences with tokens.
+      // 3) run encodeURI on the rest to encode spaces and other chars.
+      // 4) restore the original %xx sequences.
+      let s = String(p).replace(/%(?![0-9A-Fa-f]{2})/g, '%25');
+      const seqs = [];
+      s = s.replace(/%[0-9A-Fa-f]{2}/g, m => {
+        seqs.push(m);
+        return `@@P${seqs.length - 1}@@`;
+      });
+      s = encodeURI(s);
+      seqs.forEach((tok, idx) => {
+        s = s.replace(`@@P${idx}@@`, tok);
+      });
+      return s;
+    }
+
     async function loadText(path) {
       statusEl.textContent = '';
       try {
-        const res = await fetch(path);
+        const url = sanitizePathForFetch(path);
+        const res = await fetch(url);
         if (!res.ok) {
           throw new Error('Failed to fetch file, status ' + res.status);
         }
