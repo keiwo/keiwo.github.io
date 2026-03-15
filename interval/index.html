@@ -459,10 +459,10 @@
           document.webkitExitFullscreen();
         }
       } else {
-        if (document.documentElement.requestFullscreen) {
-          document.documentElement.requestFullscreen();
-        } else if (document.documentElement.webkitRequestFullscreen) {
-          document.documentElement.webkitRequestFullscreen();
+        if (elements.container.requestFullscreen) {
+          elements.container.requestFullscreen();
+        } else if (elements.container.webkitRequestFullscreen) {
+          elements.container.webkitRequestFullscreen();
         }
       }
     });
