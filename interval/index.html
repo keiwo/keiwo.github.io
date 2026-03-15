@@ -262,8 +262,41 @@
       }
     }
 
+    let audioContext = null;
+
+    function ensureAudioContext() {
+      if (!audioContext) {
+        const AudioCtx = window.AudioContext || window.webkitAudioContext;
+        if (AudioCtx) {
+          audioContext = new AudioCtx();
+        }
+      }
+      return audioContext;
+    }
+
+    function playTone(freq = 880, duration = 0.15) {
+      const ctx = ensureAudioContext();
+      if (!ctx) return;
+      const oscillator = ctx.createOscillator();
+      const gain = ctx.createGain();
+      oscillator.type = 'sine';
+      oscillator.frequency.value = freq;
+      oscillator.connect(gain);
+      gain.connect(ctx.destination);
+      gain.gain.setValueAtTime(0.0001, ctx.currentTime);
+      gain.gain.exponentialRampToValueAtTime(0.3, ctx.currentTime + 0.01);
+      oscillator.start();
+      gain.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + duration);
+      oscillator.stop(ctx.currentTime + duration + 0.02);
+    }
+
     function unlockAudio() {
       // Attempt to unlock audio using a user gesture so later plays will work.
+      const ctx = ensureAudioContext();
+      if (ctx && ctx.state === 'suspended') {
+        ctx.resume().catch(() => {});
+      }
+
       elements.beep.play().then(() => {
         elements.beep.pause();
         elements.beep.currentTime = 0;
@@ -275,7 +308,8 @@
     function playBeep() {
       elements.beep.currentTime = 0;
       elements.beep.play().catch(() => {
-        // Some browsers block autoplay; user interaction required.
+        // Fallback to Web Audio if audio element is blocked.
+        playTone();
       });
     }
 
