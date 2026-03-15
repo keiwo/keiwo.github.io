@@ -149,6 +149,59 @@
       .display { font-size: 2.4rem; }
       .row { flex-direction: column; }
     }
+
+    .container.fullscreen-mode h1,
+    .container.fullscreen-mode .controls {
+      display: none;
+    }
+
+    .container.fullscreen-mode {
+      border: none;
+      width: 100vw;
+      height: 100vh;
+      padding: 0;
+      margin: 0;
+      border-radius: 0;
+      background: transparent;
+      max-width: none;
+    }
+
+    .container.fullscreen-mode .display {
+      font-size: 12rem;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+      border-radius: 0;
+      background: transparent;
+      border: none;
+    }
+
+    @media (max-width: 480px) {
+      .container.fullscreen-mode .display {
+        font-size: 8rem;
+      }
+    }
+
+    @media (min-width: 481px) and (max-width: 768px) {
+      .container.fullscreen-mode .display {
+        font-size: 10rem;
+      }
+    }
+
+    @media (min-width: 769px) and (max-width: 1200px) {
+      .container.fullscreen-mode .display {
+        font-size: 14rem;
+      }
+    }
+
+    @media (min-width: 1201px) {
+      .container.fullscreen-mode .display {
+        font-size: 16rem;
+      }
+    }
   </style>
 </head>
 <body>
@@ -182,6 +235,7 @@
 
       <div class="row" style="justify-content: space-between;">
         <button class="secondary small" id="wake" type="button">Keep screen awake</button>
+        <button class="secondary small" id="fullscreen" type="button">Full Screen</button>
         <span id="status" class="hint" style="margin:0; text-align:right;">Ready</span>
       </div>
 
@@ -199,8 +253,10 @@
       toggle: document.getElementById('toggle'),
       reset: document.getElementById('reset'),
       wake: document.getElementById('wake'),
+      fullscreen: document.getElementById('fullscreen'),
       status: document.getElementById('status'),
       beep: document.getElementById('beep'),
+      container: document.querySelector('.container'),
     };
 
     let intervalId = null;
@@ -391,6 +447,28 @@
         releaseWakeLock();
       } else {
         tryWakeLock();
+      }
+    });
+
+    elements.fullscreen.addEventListener('click', () => {
+      if (document.fullscreenElement) {
+        document.exitFullscreen();
+      } else {
+        document.documentElement.requestFullscreen();
+      }
+    });
+
+    document.addEventListener('fullscreenchange', () => {
+      if (document.fullscreenElement) {
+        elements.container.classList.add('fullscreen-mode');
+      } else {
+        elements.container.classList.remove('fullscreen-mode');
+      }
+    });
+
+    elements.countdown.addEventListener('click', () => {
+      if (document.fullscreenElement) {
+        document.exitFullscreen();
       }
     });
 
