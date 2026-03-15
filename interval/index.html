@@ -452,24 +452,39 @@
     });
 
     elements.fullscreen.addEventListener('click', () => {
-      if (document.fullscreenElement) {
-        document.exitFullscreen();
+      if (document.fullscreenElement || document.webkitFullscreenElement) {
+        if (document.exitFullscreen) {
+          document.exitFullscreen();
+        } else if (document.webkitExitFullscreen) {
+          document.webkitExitFullscreen();
+        }
       } else {
-        document.documentElement.requestFullscreen();
+        if (document.documentElement.requestFullscreen) {
+          document.documentElement.requestFullscreen();
+        } else if (document.documentElement.webkitRequestFullscreen) {
+          document.documentElement.webkitRequestFullscreen();
+        }
       }
     });
 
-    document.addEventListener('fullscreenchange', () => {
-      if (document.fullscreenElement) {
+    function handleFullscreenChange() {
+      if (document.fullscreenElement || document.webkitFullscreenElement) {
         elements.container.classList.add('fullscreen-mode');
       } else {
         elements.container.classList.remove('fullscreen-mode');
       }
-    });
+    }
+
+    document.addEventListener('fullscreenchange', handleFullscreenChange);
+    document.addEventListener('webkitfullscreenchange', handleFullscreenChange);
 
     elements.countdown.addEventListener('click', () => {
-      if (document.fullscreenElement) {
-        document.exitFullscreen();
+      if (document.fullscreenElement || document.webkitFullscreenElement) {
+        if (document.exitFullscreen) {
+          document.exitFullscreen();
+        } else if (document.webkitExitFullscreen) {
+          document.webkitExitFullscreen();
+        }
       }
     });
 
