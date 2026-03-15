@@ -262,6 +262,16 @@
       }
     }
 
+    function unlockAudio() {
+      // Attempt to unlock audio using a user gesture so later plays will work.
+      elements.beep.play().then(() => {
+        elements.beep.pause();
+        elements.beep.currentTime = 0;
+      }).catch(() => {
+        // Some browsers still require a gesture at the moment of play.
+      });
+    }
+
     function playBeep() {
       elements.beep.currentTime = 0;
       elements.beep.play().catch(() => {
@@ -281,6 +291,7 @@
 
     function startTimer() {
       if (intervalId) return;
+      unlockAudio();
       intervalId = window.setInterval(tick, 1000);
       elements.toggle.textContent = 'Stop';
       updateStatus('Running • will repeat every ' + formatTime(cycleSeconds));
