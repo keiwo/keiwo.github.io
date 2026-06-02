@@ -11,8 +11,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      BUNDLE_GEMFILE: Gemfile
 
     steps:
       - name: Check out repository
@@ -26,9 +24,11 @@ jobs:
           cache: 'bundler'
 
       - name: Install dependencies
-        working-directory: minima
-        run: bundle install --jobs 4 --retry 3
+        run: |
+          cd minima
+          bundle install --jobs 4 --retry 3
 
       - name: Build Minima site
-        working-directory: minima
-        run: bundle exec jekyll build --config _config_theme-dev.yml --destination ../1zZ
+        run: |
+          cd minima
+          bundle exec jekyll build --config _config_theme-dev.yml --destination ../1zZ
