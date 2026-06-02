@@ -2,6 +2,7 @@
 # ------------------
 # bundle exec jekyll build --destination ../1.zZ
 title: Your awesome title
+baseurl: /1.zZ
 #
 author:
   name: GitHub User
