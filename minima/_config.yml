@@ -1,6 +1,6 @@
 # Site-wide settings
 # ------------------
-# bundle exec jekyll build --destination ../1.zZ
+# bundle exec jekyll build --destination ../1zZ
 title: Your awesome title
 #
 author:
