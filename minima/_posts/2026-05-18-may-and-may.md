@@ -22,4 +22,4 @@ meta: "Springfield"
 
 ---
 
-![2025.5  南京 老城区街头](../img/2026-05-18/nj-old-street.jpg)
+![2025.5 南京 老城区街头]({{ "../assets/img/2026-05-18/nj-old-street.jpg" | relative_url }})
