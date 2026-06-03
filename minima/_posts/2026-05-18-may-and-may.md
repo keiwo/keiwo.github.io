@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "五月与五月的重逢"
-categories: junk
-author:
-- 1.zZ
+categories: nj
 meta: "Springfield"
 ---
 ><font color="#FFACAA">不是渐行渐远，而是有一天终要重逢</font>
+>
 >
 >龙应台
 
