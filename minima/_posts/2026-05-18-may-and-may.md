@@ -4,7 +4,7 @@ title: "五月与五月的重逢"
 categories: nj
 meta: "Springfield"
 ---
-> <span style="color:#FFACAA">不是渐行渐远，而是有一天终要重逢</span>
+> <span style="color:rgb(255,172,170)">不是渐行渐远，而是有一天终要重逢</span>
 >
 > 龙应台
 
@@ -26,10 +26,10 @@ meta: "Springfield"
 
 2025.5 南京 老城区街头
 
-![2025.5  南京百家湖附近](/1.zZ/assets/img/2026-05-18/nj-baijiahu.JPEG)
+![2025.5 南京 百家湖附近](/1.zZ/assets/img/2026-05-18/nj-baijiahu.JPEG)
 
-2025.5  南京百家湖附近
+2025.5 南京 百家湖附近
 
-![2025.5  南京 玄武湖先锋书店](/1.zZ/assets/img/2026-05-18/nj-xuanwu-lake.JPEG)
+![2025.5 南京 玄武湖先锋书店](/1.zZ/assets/img/2026-05-18/nj-xuanwu-lake.JPEG)
 
-2025.5  南京 玄武湖先锋书店
+2025.5 南京 玄武湖先锋书店
