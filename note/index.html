@@ -1,24 +1,26 @@
 PowerShell shortcut for Minecraft </br>
-Squoosh
+Squoosh </br>
+
+.\squoosh-cli.exe --mozjpeg '{"quality": 75}'
+  --resize '{"enabled": true, "width": 720}' --suffix -small -d small` </br>
+.\squoosh-cli.exe --mozjpeg '{"quality": 75}'
+  --suffix -large -d large` # default current path </br>
+.\squoosh-cli.exe --mozjpeg '{"quality": 75}'
+  --suffix -large -d target_path source_path`</br>
 ```
-.\squoosh-cli.exe --mozjpeg '{"quality": 75}'  --resize '{"enabled": true, "width": 720}' --suffix -small -d small`
-.\squoosh-cli.exe --mozjpeg '{"quality": 75}'  --suffix -large -d large` # default current path
-.\squoosh-cli.exe --mozjpeg '{"quality": 75}'  --suffix -large -d target_path source_path`
-```
-Windows terminal configuration of QKM
-```
-{
-    "commandline": "\"C:\\Program Files\\QMK_MSYS\\usr\\bin\\bash.exe\" --login -i",
-    "environment": 
-    {
-        "CHERE_INVOKING": "1",
-        "MSYS2_PATH_TYPE": "inherit",
-        "MSYSTEM": "MINGW64"
-    },
-    "guid": "{43dbf366-0843-5759-8715-fdbf7e4d2840}",
-    "hidden": false,
-    "icon": "C:\\Program Files\\QMK_MSYS\\icon.ico",
-    "name": "QMK",
-    "startingDirectory": "%USERPROFILE%"
-}
-```
+Windows terminal configuration of QKM </br>
+
+{ </br>
+    "commandline": "\"C:\\Program Files\\QMK_MSYS\\usr\\bin\\bash.exe\" --login -i",</br>
+    "environment": </br>
+    {</br>
+        "CHERE_INVOKING": "1",</br>
+        "MSYS2_PATH_TYPE": "inherit",</br>
+        "MSYSTEM": "MINGW64"</br>
+    },</br>
+    "guid": "{43dbf366-0843-5759-8715-fdbf7e4d2840}",</br>
+    "hidden": false,</br>
+    "icon": "C:\\Program Files\\QMK_MSYS\\icon.ico",</br>
+    "name": "QMK",</br>
+    "startingDirectory": "%USERPROFILE%"</br>
+}</br>
