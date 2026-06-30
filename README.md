@@ -1,3 +1,10 @@
+PowerShell shortcut for Minecraft
+Squoosh
+```
+.\squoosh-cli.exe --mozjpeg '{"quality": 75}'  --resize '{"enabled": true, "width": 720}' --suffix -small -d small`
+.\squoosh-cli.exe --mozjpeg '{"quality": 75}'  --suffix -large -d large` # default current path
+.\squoosh-cli.exe --mozjpeg '{"quality": 75}'  --suffix -large -d target_path source_path`
+```
 Windows terminal configuration of QKM
 ```
 {
