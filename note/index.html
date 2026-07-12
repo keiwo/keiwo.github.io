@@ -1,9 +1,10 @@
 Set Minecraft over VPN
-<pred>
+<pre>
     "javaArgs": "-Djava.net.preferIPv4Stack\u003dtrue -Djava.net
-</pred>
+</pre>
+
 Turn off ProMicro LED lights
-<pred>
+<pre>
     void led_set_user(uint8_t usb_led) {
     if (usb_led) {
         // Turn off RX/TX LEDs
@@ -11,7 +12,7 @@ Turn off ProMicro LED lights
         DDRB &= ~(1 << 0);
         }
     }
-</pred>
+</pre>
 
 PowerShell shortcut for Minecraft
 <pre>
