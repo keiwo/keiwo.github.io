@@ -1,6 +1,6 @@
 # Site-wide settings
 # ------------------
-# bundle exec jekyll build --destination ../1.zZ
+# bundle install && bundle exec jekyll build --destination ../1.zZ
 title: 1.zZ眠杨
 baseurl: /1.zZ
 #
